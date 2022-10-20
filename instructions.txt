@@ -1,0 +1,7 @@
+Convert this counter application to a basic ecommerce site with the ff. features:
+- Add to cart & in/de-crease quantity of cart item
+- Remove from cart & in/de-crease quantity of cart item
+- Display of total cart items in navbar
+
+Bonus:
+- Cart summary view of all items added to cart
